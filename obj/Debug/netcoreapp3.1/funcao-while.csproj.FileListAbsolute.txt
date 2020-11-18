@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.exe
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.dll
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.pdb
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.dll
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.pdb
+C:\Users\juanv\Desktop\DEV\back-end\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.genruntimeconfig.cache
